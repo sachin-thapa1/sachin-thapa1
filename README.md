@@ -5,7 +5,7 @@
 Final-year Computer Science student from Nepal specializing in backend development. Self-taught developer with hands-on experience building production-ready REST APIs, authentication systems, and full-stack applications. I believe in learning by building—every project teaches me something new about writing clean, maintainable code.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sachin-thapa-9174a6264/">
+  <a href="https://www.linkedin.com/in/sachin-thapa-876047398/"> 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sachinthapa.xiao12@gmail.com">
