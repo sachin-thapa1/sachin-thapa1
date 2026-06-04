@@ -2,13 +2,13 @@
 
 **`Backend Developer | Java & Spring Boot`**
 
-Computer Science graduate from Nepal, passionate about building clean, production-ready backend systems. Self-taught developer with hands-on experience designing REST APIs, authentication systems, and full-stack applications. Currently deepening my expertise and preparing to enter the industry as a professional backend engineer.
+Computer Science graduate from Nepal, passionate about building clean, production-ready backend systems. Self-taught developer with hands-on experience designing REST APIs, authentication systems, and full-stack applications. Currently expanding my expertise in Spring Boot, system design, and scalable backend architecture while building real-world applications.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sachin-thapa-9174a6264/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sachinthapa.xiao12@gmail.com">
+  <a href="mailto:sachinthapa.cs@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sachin-thapa1?tab=followers">
@@ -28,9 +28,7 @@ Computer Science graduate from Nepal, passionate about building clean, productio
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
 <br />
 
 #
@@ -136,5 +134,5 @@ Always open to discussing backend development, collaborating on projects, or jus
 ---
 
 <p align="center">
-  <i>"Learning by building, one commit at a time."</i>
+  <i>"Turning ideas into maintainable backend systems."</i>
 </p>
