@@ -8,7 +8,7 @@ Computer Science graduate from Nepal, passionate about building clean, productio
   <a href="https://www.linkedin.com/in/sachin-thapa-9174a6264/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:sachinthapa.cs@gmail.com">
+  <a href="mailto:sachinthapa.xiao12@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/sachin-thapa1?tab=followers">
@@ -89,13 +89,6 @@ A full-stack civic issue reporting platform — citizens can report local proble
 
 ---
 
-## 📊 GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachin-thapa1&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-thapa1&layout=compact&theme=tokyonight)
-
-#
 
 ## 🎯 Currently
 
