@@ -113,7 +113,7 @@ A backend engineering role where I can contribute to real production systems, le
 Always open to discussing backend development, collaborating on projects, or just talking about code.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sachin-thapa-9174a6264/">
+  <a href="https://www.linkedin.com/in/sachin-thapa-876047398/">
     <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sachinthapa.xiao12@gmail.com">
