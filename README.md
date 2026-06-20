@@ -5,7 +5,7 @@
 Computer Science graduate from Nepal, passionate about building clean, production-ready backend systems. Self-taught developer with hands-on experience designing REST APIs, authentication systems, and full-stack applications. Currently expanding my expertise in Spring Boot, system design, and scalable backend architecture while building real-world applications.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sachin-thapa-9174a6264/">
+  <a href="https://www.linkedin.com/in/sachin-thapa-876047398/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sachinthapa.xiao12@gmail.com">
