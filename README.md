@@ -11,9 +11,6 @@ Computer Science graduate from Nepal with hands-on experience building productio
   <a href="mailto:sachin.thapa.cs@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/sachin-thapa1?tab=followers">
-    <img alt="Followers" src="https://custom-icon-badges.demolab.com/github/followers/sachin-thapa1?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -40,12 +37,13 @@ Computer Science graduate from Nepal with hands-on experience building productio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Delivered-brightgreen?style=flat-square)
 
-First Java project — a production REST API delivered to Siddhanath Science Campus, Kanchanpur, covering three departments: BSc.CSIT, BIT, and BSc. Science. The jump from Python to Java happened here.
+Production REST API delivered to Siddhanath Science Campus, Kanchanpur, covering three departments: BSc.CSIT, BIT, and BSc. Science.
 
 - **JWT Authentication & RBAC** — USER and ADMIN roles with distinct permission sets
 - **Book Management** — full CRUD with title search and cover image upload/download
 - **Member Management** — full CRUD with name-based search
 - **Borrow & Return System** — complete transaction lifecycle with due-date logic
+- **Input Validation** — request validation using @Valid throughout
 - **Exception Handling** — custom error responses with consistent HTTP status codes
 
 **Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · JWT · Maven
@@ -59,13 +57,12 @@ First Java project — a production REST API delivered to Siddhanath Science Cam
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-First complete project — started as a task manager, ended up as a multi-user platform with a real admin monitoring layer. The point where backend thinking clicked.
+Full-stack multi-user task management platform with a role-based admin monitoring layer — built with Django and live on Render.
 
-- **Role-Based Access** — USER and ADMIN roles with completely different capability sets
-- **Admin Dashboard** — live Users Online counter, platform-wide task completion tracking, full user management table with Last Seen and Task Count
-- **Activity Feed** — timestamped log of task completions across all users
-- **Session Tracking** — real-time online presence detection
-- **User Profiles** — name, email, and avatar upload per user
+- **Authentication System** — session-based login, registration, and logout with role assignment
+- **Task Management System** — create, edit, complete, and filter tasks with due date tracking
+- **Admin Monitoring System** — live Users Online counter, platform-wide task completion metrics, timestamped activity feed, full user management with Last Seen and Task Count
+- **User Profile System** — name, email, and avatar upload; admins can edit or delete any account
 - **Dark Mode** — available to all users
 
 **Tech Stack:** Django · SQLite · HTML · CSS · JavaScript
@@ -80,7 +77,7 @@ First complete project — started as a task manager, ended up as a multi-user p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-Moved to pure API development — no frontend, just a clean REST API with DRF and PostgreSQL. A genuinely underserved use case for Nepal.
+REST API for discovering and registering local businesses across Nepal — pure backend with DRF, PostgreSQL, and Swagger documentation.
 
 - **Business Listings** — full CRUD with category management and search filtering
 - **User Authentication** — token-based register and login
@@ -98,11 +95,13 @@ Moved to pure API development — no frontend, just a clean REST API with DRF an
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
 
-Current project — more complex workflow architecture than anything before. Citizens report civic issues, officers handle them, admins oversee everything.
+Civic issue reporting backend with a three-role workflow — citizens submit reports, officers handle them, admins oversee and assign.
 
 - **JWT Authentication & RBAC** — three roles: USER, OFFICER, ADMIN
 - **Report Workflow** — submit, assign to officer, track resolution
 - **Department Management** — reference data for routing reports
+- **Input Validation** — request validation using @Valid throughout
+- **Dedicated Request DTOs** — separate DTO classes per domain keeping entities clean
 - **Secure Endpoints** — every route protected by role
 
 **Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Java 21
