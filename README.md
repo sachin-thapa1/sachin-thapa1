@@ -90,29 +90,29 @@ REST API for discovering and registering local businesses across Nepal — pure 
 
 ---
 
-### CivilReport *(In Progress)*
+### CivilReport
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 
-Civic issue reporting backend with a three-role workflow — citizens submit reports, officers handle them, admins oversee and assign.
+Civic issue reporting backend with a four-role workflow — citizens submit reports, officers handle them, admins oversee and assign. Fully explorable via Swagger UI in browser.
 
-- **JWT Authentication & RBAC** — three roles: USER, OFFICER, ADMIN
-- **Report Workflow** — submit, assign to officer, track resolution
-- **Department Management** — reference data for routing reports
-- **Input Validation** — request validation using @Valid throughout
-- **Dedicated Request DTOs** — separate DTO classes per domain keeping entities clean
-- **Secure Endpoints** — every route protected by role
+- **JWT Authentication & RBAC** — four roles: USER, OFFICER, ADMIN, SUPER_ADMIN
+- **Full Report Lifecycle** — SUBMITTED → ASSIGNED → IN_PROGRESS → RESOLVED
+- **Auto-Routing by Category** — reports automatically assigned to matching department on submission
+- **Assignment Enforcement** — officers can only update status on reports assigned to them
+- **Swagger UI** — register, authorize with JWT, and test all endpoints directly in browser
 
-**Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Java 21
+**Tech Stack:** Spring Boot · Spring Security · JPA/Hibernate · PostgreSQL · Java 21 · Swagger
 
-**[View Code →](https://github.com/sachin-thapa1/civil-Report)**
+**[View Code →](https://github.com/sachin-thapa1/civil-Report)** · **[Live →](https://civil-report.onrender.com)**
 
 ---
 
 ## Currently
 
-- Building **CivilReport** — civic issue reporting backend with Spring Boot
+- Improving **CivilReport** — adding response DTOs, unit tests, and Phase 2 features
 - Deepening knowledge of **Spring Security**, **system design**, and **JPA/Hibernate internals**
 
 ---
